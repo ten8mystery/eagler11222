@@ -2,7 +2,7 @@
 <h1>Eaglercraft 1.5.2 Browser</h1>
 <head>
 <p>
-<b>Eaglercraft 1.5.2 javascript runtime.</b> Multiplayer, singleplayer, and LAN worlds available. Customizable profile, skins, capes, and controls. Game modes including creative, survival, peaceful, and more! Villages, mine shafts, dungeons, caves, ravines, many different biomes, and other things can spawn. The Nether and End are also available. Commands are the same as the real Minecraft.
+<b>Eaglercraft 1.5.2 javascript runtime.</b> Multiplayer, singleplayer, and LAN worlds available. Customizable profile, skins, capes, and controls. Game modes including creative, survival, peaceful, and more! Villages, mine shafts, dungeons, caves, ravines, many different biomes, and other things can spawn. The Nether and End are also available. Commands are the same as the real Minecraft. I copied this repository and I don't own eaglercraft
 </p>
 </head>
 
@@ -14,7 +14,7 @@
 <p>2. Open the zip in your files.</p>
 <p>3. Find the eaglercraft.1.5.2.html file.</p>
 <p>4. Open the file and let it load.</p>
-</p>
+<p>5. Eaglercraft browser coming soon
 
 <p>
 <h1>Servers</h1>
